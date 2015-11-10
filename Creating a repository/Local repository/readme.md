@@ -1,0 +1,2 @@
+# Local repository #
+Your local is repository is where your current code is, your so called "working copy". So if you make changes in your code in your favorite editor, the code is being changed in this repository.
