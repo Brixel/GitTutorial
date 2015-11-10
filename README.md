@@ -2,7 +2,7 @@
 
 This tutorial has multiple sessions, and will grow bigger when more content is added. (This text is redundant.)
 
-1. [What is Git?](What is git)
+1. [What is Git?](What is Git)
 2. [First steps: creating a repository](Creating a repository)
 	1. [Local repository](Creating a repository/Local repository)
 	2. [Remote repository](Creating a repository/Remote repository)
